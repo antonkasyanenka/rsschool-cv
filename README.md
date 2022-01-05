@@ -1,2 +1,2 @@
-https://antonkasyanenka.github.io/rsschool-cv/
+https://github.com/antonkasyanenka/rsschool-cv/blob/main/cv.md
 
