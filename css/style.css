@@ -1,5 +1,5 @@
-* {
-    box-sizing: border-box;
+{
+    box-sizing: content-box;
   }
 
 
@@ -9,22 +9,24 @@ html {
 
 
 body {
-    font-family: 'Poppins', sans-serif;
-    font-size: 18px;
-    font-weight: 400;
+    font-family: 'Bookman', serif;
+    font-size: 25px;
+    font-weight: 500;
     line-height: 1.5;
-    min-height: 100vh;
-    margin: 0; 
+    margin: 30; 
     padding: 0;
-    display: flex;
+    display: inline flex;
     flex-direction: column;
-    justify-content: space-between;
+    justify-content: space-evenly;
   } 
 
+.section-title{
+  <div style="text-align: center;">
+}
 
 .container {
     max-width: 1440px;
-    margin: 0 auto;
+    margin: 10 auto;
   }
 
 
@@ -38,23 +40,23 @@ body {
 
 
   .nav-link {
-    padding: 0 20px;
-    line-height: 50px;
-    text-decoration: none;
+    padding: 0 25px;
+    line-height: 40px;
+    text-decoration: underline;
     transition: .5s;
-    white-space: nowrap; 
+    white-space: normal; 
   }
 
 
   a {
-    color: #04198b;
-    text-decoration: none;  
-    transition: color 0.3s;
+    color: #af2908;
+    text-decoration: underline;  
+    transition: margin-right 2s
   }
 
 
   a:hover {
-    color: #15970a;
+    color: #000000;
   }
 
 
@@ -64,50 +66,37 @@ body {
   }
   
   .section {
-    width: 50%;
+    width: 40%;
   }
 
 
   @media (max-width: 800px) {
     .section {
       width: 100%;
-      flex-wrap: nowrap;
+      flex-wrap: wrap;
     }
   }
 
 
   .item {
-    padding: 10px;
+    padding: 30px;
   }
 
 
   img {
-    width: 25%;
+    width: 70%;
     height: auto;
     display: block;
   }
 
 
   .footer {
-    margin-top: 130px;
-    margin-bottom: 80px;
+    margin: auto 30%;
     display: flex;
     justify-content: space-between;
-    align-items: baseline;
-    flex-wrap: nowrap;
+    flex-wrap: wrap;
   }
 
-
-  .year {
-    font-size: 36px;
-    line-height: 44px;
-    font-weight: 900;
-  }
-  
-  .git_img {
-    width: 64px;
-  }
-  
   .rs_img {
-    width: 175px;
+    width: 400px;
   }
