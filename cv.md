@@ -18,9 +18,9 @@ I am always in the process of learning and self-development, I consider this my 
 ## Experience
 
 
-- Territory Sales Representative in Autodesk
+- Territory Sales Representative in Autodesk for 2 years
 
-- Engineer in Institute for Regional and Urban Planning
+- Engineer in Institute for Regional and Urban Planning for 4 years
 
 ---
 
