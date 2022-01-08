@@ -26,9 +26,9 @@ I am always in the process of learning and self-development, I consider this my 
 
 ## Skills
 
-- Strong knowledge of a structured selling methodology and sale process 
-- Pre-sales experience to enterprise customers
-- CSS, HTML
+- Strong knowledge of a structured selling methodology and sale process.
+- Pre-sales experience to enterprise customers.
+- CSS, HTML.
 
 ---
 
